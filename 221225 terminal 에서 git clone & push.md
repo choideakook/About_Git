@@ -7,6 +7,7 @@ repository 에 있는 source 들을 내 로컬로 복사하는 기능
 ### 1. repository 주소 복사
 
 local 로 복사를 원하는 repositry 에서 <> Code 버튼을 눌러서 나오는 url 을 복사한다.
+![1](https://github.com/choideakook/Terminal/blob/main/images/221225_1.png)
 
 ### 2. directory 이동
 
