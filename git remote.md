@@ -45,7 +45,7 @@ git remote remove origin
 - 원하는 remote 에 연결시켜준다.
 
 ```html
-git remote add origin {리포지토리 주소}
+git remote add origin 주소
 ```
 
 - 연결을 확인할 수 있다.
