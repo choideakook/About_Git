@@ -25,6 +25,10 @@ ll -arlth
 - 직접 폴더를 열어서 확인할 수도 있다.
     - 파일이 숨겨져 있어서 C + S + . 으로 숨긴파일보기를 해주어야 한다.
 
+```
+git push --set-upstream origin main
+```
+
 <br>
 
 ## ✏️ 기존 remote 변경하기
