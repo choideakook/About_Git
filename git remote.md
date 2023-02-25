@@ -25,9 +25,7 @@ ll -arlth
 - 직접 폴더를 열어서 확인할 수도 있다.
     - 파일이 숨겨져 있어서 C + S + . 으로 숨긴파일보기를 해주어야 한다.
 
-```
-git push --set-upstream origin main
-```
+
 
 <br>
 
@@ -54,6 +52,13 @@ git remote add origin 주소
 ```html
 git remote -v
 ```
+
+- project 저장하기
+
+```
+git push --set-upstream origin main
+```
+
 
 - 연결이 완료되면 파일을 원하는 repostiory 로 업로드 할 수 있게된다.
 
