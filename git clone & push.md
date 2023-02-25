@@ -75,13 +75,20 @@ git log
 
 log 창에서 나가는 방법 : q
 
-❗️ commit 취소하는 방법
+#### ❗️ commit 취소하는 방법
 
 add 취소하는 방법과 비슷하다.
 
 ```
 git reset HAED^ 파일명
 ```
+  
+만약 직전 commit message 를 취소하고싶다면  
+
+```
+amend
+```
+  
 
 ### 4. push
 
